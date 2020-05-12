@@ -24,7 +24,7 @@ persons.forEach(person => {
 // filtrar itens do array
 console.log(persons.filter(person => person.gender === gender.WOMAN))
 
-// criar um novo array
+// criar um novo array modificado
 console.log(persons.map(person => {
     person.lastName = 'Oliveira';
     return person;
