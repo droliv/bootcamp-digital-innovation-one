@@ -1,0 +1,13 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+/* .title {
+  position: relative;
+  transform: translateX();
+  transition: all 0.2s linear;
+}
+
+.title.animate {
+  transform: translateX(500px);
+} */
